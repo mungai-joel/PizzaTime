@@ -18,7 +18,7 @@ js
 css 
 bootsrap
 
-##BDD                                  
+## BDD                                  
 | Action  | Expected Behaviour  | Possible Impementation |
 | :------------ |:---------------:| -----:|
 | Page Load      | Image carousel display | Bootstrap, css |
@@ -27,6 +27,10 @@ bootsrap
 
 ## Support and contact details
 mungaijoel123@gmail.com
+
+## link to live site
+[https://mungai-joel.github.io/PizzaTime/index.html](link)
+
 ### License
 MIT License
 
