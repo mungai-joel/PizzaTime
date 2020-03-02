@@ -85,7 +85,7 @@ body {
 
 .big {
     border: #FEFEFC solid 12px;
-    color: rgb(231, 36, 36);
+    color: red;
     font-size: xx-large;
     text-align: center;
 }
