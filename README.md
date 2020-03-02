@@ -1,2 +1,0 @@
-# PizzaTime
-Online pizza shop
